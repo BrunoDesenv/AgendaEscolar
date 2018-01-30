@@ -1,0 +1,11 @@
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\bin\Debug\netcoreapp2.0\Agenda.WebApplication.deps.json
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\bin\Debug\netcoreapp2.0\Agenda.WebApplication.runtimeconfig.json
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\bin\Debug\netcoreapp2.0\Agenda.WebApplication.runtimeconfig.dev.json
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\bin\Debug\netcoreapp2.0\Agenda.WebApplication.dll
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.AssemblyInfoInputs.cache
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.AssemblyInfo.cs
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\bin\Debug\netcoreapp2.0\Agenda.WebApplication.pdb
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.dll
+C:\Users\Robson\Documents\Visual Studio 2017\Projects\AgendaEscolar\Agenda.WebApplication\obj\Debug\netcoreapp2.0\Agenda.WebApplication.pdb
